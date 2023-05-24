@@ -43,6 +43,16 @@
         "userTesting",
         "video"
       ]
+    },
+    {
+      "login": "a0m0rajab",
+      "name": "Abdurrahman Rajab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18273833?v=4",
+      "profile": "https://github.com/a0m0rajab",
+      "contributions": [
+        "question",
+        "audio"
+      ]
     }
   ],
   "contributorsPerLine": 7,
