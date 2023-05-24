@@ -50,8 +50,17 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/18273833?v=4",
       "profile": "https://github.com/a0m0rajab",
       "contributions": [
+<<<<<<< HEAD
         "question",
         "audio"
+=======
+        "a11y",
+        "question",
+        "audio",
+        "blog",
+        "bug",
+        "business"
+>>>>>>> 694307bae78aedab15ec20003d352cc082a612d6
       ]
     }
   ],
